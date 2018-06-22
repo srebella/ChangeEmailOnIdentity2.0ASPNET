@@ -1,0 +1,74 @@
+c:\users\santiago\source\repos\change username identity\change username identity\bin\ApplicationInsights.config
+c:\users\santiago\source\repos\change username identity\change username identity\bin\change username identity.dll.config
+c:\users\santiago\source\repos\change username identity\change username identity\bin\change username identity.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\change username identity.pdb
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Antlr3.Runtime.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\EntityFramework.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\EntityFramework.SqlServer.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AI.Web.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AI.WindowsServer.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.ApplicationInsights.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.Google.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Web.Infrastructure.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Newtonsoft.Json.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Owin.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.Helpers.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.Mvc.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.Optimization.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.Razor.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.WebPages.Deployment.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.WebPages.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.WebPages.Razor.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\WebGrease.dll
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.Helpers.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.Mvc.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.Optimization.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.Razor.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.WebPages.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.WebPages.Deployment.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\System.Web.WebPages.Razor.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Antlr3.Runtime.pdb
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Newtonsoft.Json.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\EntityFramework.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\EntityFramework.SqlServer.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.Google.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.ApplicationInsights.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AI.WindowsServer.xml
+c:\users\santiago\source\repos\change username identity\change username identity\bin\Microsoft.AI.Web.xml
+c:\users\santiago\source\repos\change username identity\change username identity\obj\Debug\change username identity.csprojResolveAssemblyReference.cache
+c:\users\santiago\source\repos\change username identity\change username identity\obj\Debug\change username identity.csproj.CoreCompileInputs.cache
+c:\users\santiago\source\repos\change username identity\change username identity\obj\Debug\change username identity.dll
+c:\users\santiago\source\repos\change username identity\change username identity\obj\Debug\change username identity.pdb
+C:\Users\Santiago\source\repos\change username identity\change username identity\obj\Debug\change_username_identity.Migrations.InitialCreate.resources
+C:\Users\Santiago\source\repos\change username identity\change username identity\obj\Debug\change username identity.csproj.GenerateResource.Cache
+C:\Users\Santiago\source\repos\change username identity\change username identity\obj\Debug\change_username_identity.Migrations.first_change.resources
